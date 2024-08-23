@@ -4,4 +4,4 @@ Este repositorio contiene todos los capstone project del curso [Web Dev Bootcamp
 
 ## Proyectos
 
-1. [Online Resumen]()
+1. [Online Resumen](https://github.com/mrGoonies/capstone-project-bootcamp/tree/main/01-project)
